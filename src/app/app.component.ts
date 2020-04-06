@@ -19,7 +19,7 @@ export class AppComponent implements OnInit {
     },
     {
       title: 'Trending',
-      url: '/folder/Trending',
+      url: '/trending',
       icon: 'trending-up'
     },
     {
